@@ -1,0 +1,26 @@
+{
+    "users": {
+      "123456789012345678": {
+        "username": "ExampleUser",
+        "discord_id": "123456789012345678",
+        "watchlist": {
+          "Elden Ring": {
+            "game_id": "elden_ring",
+            "platform": "Steam",
+            "current_price": 59.99,
+            "target_price": 40.00,
+            "currency": "USD",
+            "last_checked": "2025-01-01T12:00:00Z",
+            "last_notified": "2024-12-25T14:00:00Z",
+            "sale_detected_at": "2025-01-01T12:00:00Z"
+          }
+        },
+        "preferences": {
+          "notification_method": "dm",
+          "time_zone": "America/New_York",
+          "language": "en"
+        }
+      }
+    }
+}
+  
